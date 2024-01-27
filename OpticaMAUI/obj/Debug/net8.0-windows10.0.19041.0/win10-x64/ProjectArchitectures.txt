@@ -1,0 +1,1 @@
+C:\Users\ismaa\source\repos\OpticaMAUI\OpticaMAUI\OpticaMAUI.csproj;x64
